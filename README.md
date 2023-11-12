@@ -193,6 +193,5 @@ Welcome to the Web Application Security Testing Checklist repository. This check
 <details>
 <summary style="color: #3498db; font-size: 18px;"><strong>Contributors</strong></summary>
 
-- [Your Name]
-- [Other Security Researchers]
+- [Sicko]
 </details>
