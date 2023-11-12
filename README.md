@@ -194,6 +194,7 @@ Welcome to the Web Application Security Testing Checklist repository. This check
 <summary style="color: #3498db; font-size: 18px;"><strong>Contributors</strong></summary>
 
 - [Sicko]
+- [Reconnaissance Command Line Helpful Guide](https://docs.google.com/document/d/1TPPJwzTl8-sqQCLV7dJoKG-0oqDTLdaKcaQUZBA0vmU/edit#heading=h.ab50wugjcygo)
 </details>
 
 ---
@@ -201,3 +202,4 @@ Welcome to the Web Application Security Testing Checklist repository. This check
 **Sources:**
 
 - [Google Dorking Checklist](https://docs.google.com/document/d/1E64dNgDqQDyXtrj0EPsb4Pi28HXLtvS0buyGsY_78IA/edit)
+- [Reconnaissance Command Line Helpful Guide](https://docs.google.com/document/d/1TPPJwzTl8-sqQCLV7dJoKG-0oqDTLdaKcaQUZBA0vmU/edit#heading=h.ab50wugjcygo)
