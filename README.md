@@ -195,3 +195,9 @@ Welcome to the Web Application Security Testing Checklist repository. This check
 
 - [Sicko]
 </details>
+
+---
+
+**Sources:**
+
+- [Google Dorking Checklist](https://docs.google.com/document/d/1E64dNgDqQDyXtrj0EPsb4Pi28HXLtvS0buyGsY_78IA/edit)
