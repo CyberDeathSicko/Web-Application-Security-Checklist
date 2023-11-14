@@ -200,6 +200,6 @@ Welcome to the Web Application Security Testing Checklist repository. This check
 ---
 
 **Sources:**
-
+- [OWASP Manual Bug Testing](https://gist.github.com/cyberheartmi9/c993542044fdc45834837c3f88484a63)
 - [Google Dorking Checklist](https://docs.google.com/document/d/1E64dNgDqQDyXtrj0EPsb4Pi28HXLtvS0buyGsY_78IA/edit)
 - [Reconnaissance Command Line Helpful Guide](https://docs.google.com/document/d/1TPPJwzTl8-sqQCLV7dJoKG-0oqDTLdaKcaQUZBA0vmU/edit#heading=h.ab50wugjcygo)
